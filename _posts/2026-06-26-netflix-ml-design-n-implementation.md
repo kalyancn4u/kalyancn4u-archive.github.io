@@ -9,6 +9,7 @@ mermaid: true
 toc: true
 comments: false
 description: A complete two-part guide to a Netflix-like video streaming and recommendation system — From First Principles to Production Checklist — Part I builds the mental model (the why and what), Part II is a phase-by-phase implementation checklist (the how), each item reasoned and gated. Written for rookies, engineers, architects, PMs, and stakeholders alike.
+image: /assets/img/posts/netflix-recommendations.webp
 ---
 
 > **How to read this guide.** It comes in two halves. **Part I — Understand** builds the *mental model*: how to reason about the system, the data, and the two-stage funnel. Each step there carries three lenses — 🟢 **Plain-English** (novice/stakeholder), 🔵 **Engineering** (builders), 🟣 **Strategic** (PMs/architects/business). **Part II — Build** turns that understanding into an ordered, checkable implementation plan, where every checkbox carries a one-line *why* and every phase closes with a Definition-of-Done gate. Read Part I for the story; reach for Part II when you're shipping.
