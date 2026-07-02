@@ -17,4 +17,6 @@ order: 4                     # integer; controls tab position
 
 > # **[In-demand Skills](/assets/html/in_demand_skills.html){: target="_blank" rel="noopener noreferrer" }**
 
+> # **[Cheat-sheets](/assets/html/cheatsheets/cheatsheets-index.html){: target="_blank" rel="noopener noreferrer" }**
+
 ---
